@@ -4,7 +4,7 @@ This is A beginner-friendly quant finance project that fetches stock price data,
 
 This project introduces essential tools for analyzing and visualizing financial time-series data using Python, pandas, and yfinance.
 
-# 🧠 What this project does 
+### 🧠 What this project does 
 
 ✅ Downloads historical price data for multiple assets (via Yahoo Finance) 
 ✅ Calculates daily returns (arithmetic) 
@@ -13,7 +13,7 @@ This project introduces essential tools for analyzing and visualizing financial 
 ✅ Generates and saves clear plots of growth & volatility 
 ✅ Teaches data hygiene and reproducibility best practices for quants.
 
-# Key Concepts Learned
+### Key Concepts Learned
 
 | Concept                           | Why it matters in finance                                              |
 | --------------------------------- | ---------------------------------------------------------------------- |
@@ -25,13 +25,13 @@ This project introduces essential tools for analyzing and visualizing financial 
 | **Visualization**                 | Good plots tell better stories than raw tables.                        |
 | **Reproducible folder structure** | Separating `/data` and `/figures` = professional workflow.             |
 
-# Requirements
+### Requirements
 
 Install dependencies (inside your virtual environment):
 
 pip install yfinance pandas numpy matplotlib
 
-# 🚀 How to Run
+### 🚀 How to Run
 
 Clone this repo or copy the code into a PyCharm project.
 
@@ -45,7 +45,7 @@ cumulative_returns.png
 
 rolling_volatility.png
 
-# Author
+### Author
 
 Rodrigo Baptista
 Quant finance enthusiast | Business Management student | LearnMate CFO
