@@ -33,17 +33,17 @@ pip install yfinance pandas numpy matplotlib
 
 ### 🚀 How to Run
 
-Clone this repo or copy the code into a PyCharm project.
+- Clone this repo or copy the code into a PyCharm project.
 
-Run analyzer.py.
+- Run analyzer.py.
 
-Wait a few seconds — data will download and plots will appear.
+- Wait a few seconds — data will download and plots will appear.
 
-Check your /figures folder for:
+- Check your /figures folder for:
 
-cumulative_returns.png
+    - cumulative_returns.png
 
-rolling_volatility.png
+    - rolling_volatility.png
 
 ### Author
 
