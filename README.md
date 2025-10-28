@@ -49,6 +49,6 @@ rolling_volatility.png
 
 Rodrigo Baptista
 Quant finance enthusiast | Business Management student | LearnMate CFO
-[LinkedIn Profile](www.linkedin.com/in/rodrigosbaptista)
+[LinkedIn Profile](www.linkedin.com/in/rodrigosbaptista/)
 
 
