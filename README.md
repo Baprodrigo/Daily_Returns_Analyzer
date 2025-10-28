@@ -1,6 +1,6 @@
 ## Daily Returns & Volatility Analyzer
 
-This is A beginner-friendly quant finance project that fetches stock price data, computes daily returns, cumulative growth, and rolling volatility — then visualizes them beautifully. 
+This is A beginner-friendly quant finance project that fetches stock price data, computes daily returns, cumulative growth, and rolling volatility and finally visualizes them beautifully. 
 
 This project introduces essential tools for analyzing and visualizing financial time-series data using Python, pandas, and yfinance.
 
