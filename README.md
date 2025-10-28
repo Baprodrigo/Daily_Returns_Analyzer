@@ -13,7 +13,7 @@ This project introduces essential tools for analyzing and visualizing financial 
 -  Generates and saves clear plots of growth & volatility 
 -  Teaches data hygiene and reproducibility best practices for quants.
 
-### Key Concepts Learned
+### 🔑 Key Concepts Learned
 
 | Concept                           | Why it matters in finance                                              |
 | --------------------------------- | ---------------------------------------------------------------------- |
@@ -25,7 +25,7 @@ This project introduces essential tools for analyzing and visualizing financial 
 | **Visualization**                 | Good plots tell better stories than raw tables.                        |
 | **Reproducible folder structure** | Separating `/data` and `/figures` = professional workflow.             |
 
-### Requirements
+### 🔧 Requirements
 
 Install dependencies (inside your virtual environment):
 
@@ -45,7 +45,7 @@ pip install yfinance pandas numpy matplotlib
 
     - rolling_volatility.png
 
-### Author
+### ✍️ Author
 
 Rodrigo Baptista
 Quant finance enthusiast | Business Management student | LearnMate CFO
