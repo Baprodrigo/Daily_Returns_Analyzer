@@ -6,12 +6,12 @@ This project introduces essential tools for analyzing and visualizing financial 
 
 ### 🧠 What this project does 
 
-- ✅ Downloads historical price data for multiple assets (via Yahoo Finance) 
-- ✅ Calculates daily returns (arithmetic) 
-- ✅ Computes cumulative growth of $1 invested 
-- ✅ Estimates rolling volatility (21-day window) and annualizes it 
-- ✅ Generates and saves clear plots of growth & volatility 
-- ✅ Teaches data hygiene and reproducibility best practices for quants.
+-  Downloads historical price data for multiple assets (via Yahoo Finance) 
+-  Calculates daily returns (arithmetic) 
+-  Computes cumulative growth of $1 invested 
+-  Estimates rolling volatility (21-day window) and annualizes it 
+-  Generates and saves clear plots of growth & volatility 
+-  Teaches data hygiene and reproducibility best practices for quants.
 
 ### Key Concepts Learned
 
